@@ -1,0 +1,47 @@
+* {
+    background-color: white;
+    text-align: justify;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    /* font-size: 18px; */
+    text-align: center;
+} 
+
+p {
+  font-size: 14px;  
+}
+
+.first-section {
+    color: green;
+    border: 4px solid green;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.second-section {
+    color: red;
+    border: 4px solid red;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.third-section {
+    color: blue;
+    border: 4px solid blue;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+}
